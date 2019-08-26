@@ -1,0 +1,158 @@
+div.home {
+  background-image: url(../img/emilia-home.jpg);
+  background-size: cover;
+  background-repeat: no-repeat, repeat;
+  background-position: 300px;
+  /*height: 640px;*/
+}
+
+div.about {
+  background-image: url(../img/emilia-about.jpg);
+  background-size: cover;
+  background-repeat: no-repeat, repeat;
+  background-position: 300px;
+  opacity: 0.8;
+  /*height: 640px;*/
+}
+
+div.music {
+  background-image: url(../img/emilia-music-top.jpg);
+  background-size: cover;
+  background-repeat: no-repeat, repeat;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+label media::before 
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1.main {
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  font-size: 60px;
+  background-color: rgba(266,266,266,0.2);
+}
+
+h1.main2 {
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  font-size: 48px;
+  padding-left: 50px;
+}
+
+h1.main3 {
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+  font-size: 48px;
+}
+
+h3.main {
+	font-weight: normal;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 32px;
+	line-height: 32px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	padding-left: 35px;
+}
+
+h3.subtitle {
+	font-weight: normal;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+.maintitle {
+  font-family: 'Work Sans', sans-serif;
+}
+
+ul.sections {
+	text-transform: uppercase;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	line-height: 30px;
+}
+
+ul.music {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	color: #787878;
+}
+
+ol.songs {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	line-height: 25px;
+}
+
+p.icons {
+	font-family: 'FontAwesome';
+	font-size: 14px;
+	padding-left: 35px;
+}
+
+p.icons2 {
+	font-family: 'FontAwesome';
+	font-size: 14px;
+	text-align: right;
+}
+
+p.menu {
+	font-size: 'Open Sans', sans-serif;
+	font-size: 14px;
+	text-align: right;
+	background-color: rgba(266,266,266,0.4);
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+p.quotes {
+	font-family: 'Raleway', sans-serif;
+	color: #249180;
+	font-size: 18px;
+}
+
+p.title-info {
+	font-family: 'Raleway', sans-serif;
+	color: #249180;
+	font-size: 16px;
+}
+
+p.autor-quote {
+	font-family: 'Raleway', sans-serif;
+	color: #249180;
+	font-size: 10px;
+}
+
+p.contact-info{
+	font-size: 'Open Sans', sans-serif;
+	font-size: 12px;
+	color: #464646;
+}
+
+p.go-to {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	color: #249180;
+}
+
+p.credits {
+	font-size: 10px;
+	color: #249180;
+}
+
+div.space-max {
+	height: 100px;
+}
+
+div.space-min {
+	height: 30px;
+}
+
+div.main-quotes {
+	padding-left: 90px;
+	padding-bottom: 100px;
+}

@@ -1,0 +1,63 @@
+body {
+  background: url(../img/bg-2.png);
+  background-repeat: repeat;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+main {
+  width: 800px;
+}
+
+header {
+  margin: 0 auto;
+  background-color: red;
+  text-transform: uppercase;
+  color: white;
+  font-family: sans-serif;
+}
+
+ul.sections, ul.sections li, nav {
+  display: inline-block;
+}
+
+ul.sections li{
+  line-height: 20px;
+  padding: 10px;
+}
+
+header img {
+  padding: 10px;
+  display: inline-block;
+}
+
+menu-login {
+  float: right;
+  margin-right: 20px;
+}
+
+main-title {
+  padding: 5px;
+}
+
+aside.related-art {
+  width: 320px;
+  margin: right;
+}
+
+.article {
+  width: 380px;
+  margin: 10px;
+}
+
+main button {
+  background-color: red;
+  padding: 10px;
+  border: none;
+  color: white;
+  font-size: 14px;
+}
+
+lat-bar.related-bar {
+  float: right;
+}

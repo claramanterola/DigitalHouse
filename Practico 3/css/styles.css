@@ -1,0 +1,38 @@
+body {
+  //Para sacarle el margen automatico que pone el navegador-->
+  margin: 0;
+}
+
+main {
+    overflow: hidden;
+}
+
+header {
+  border-bottom: solid black 1px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+ul.menu-items {
+  line-height: 30px;
+}
+
+ul.nav-items {
+  line-height: 60px;
+}
+
+nav {
+  font-family: 'Source Sans Pro', sans-serif;
+  width: 300px;
+  float: left;
+}
+
+section {
+  font-family: 'Source Sans Pro', sans-serif;
+  width: 610px;
+  float: right;
+}
+
+.footer {
+  background-color: grey;
+  padding: 50px;
+}

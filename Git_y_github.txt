@@ -1,0 +1,21 @@
+TERMINAL
+- Mayor control sobre el SO
+- Para entornos de desarrollo
+- Algunos lenguajes lo requieren (React o Laravel)
+
+Ir a Windows > escribir "CMD" para abrir la terminal
+Agregar "DIR" para ver todo el directorio
+Tipear "CD" para Change Directory
+Tipear "CD .." para ir a la carpeta contenedora
+Tipear "mkdir" para cambiar de nombre un archivo
+Tipear "mv nombrearchivo.ext" para moverlo
+"rm nombrearchivo.ext" para eliminar
+"clear" para limpiar pantalla
+"-a" para mostrar archivos ocultos
+"copy con nombre.ext", enter, ctrl+Z, enter
+"mv nombreoriginal nuevonombre"
+"nombre ." para ir a la carpeta y abrir
+"dir/a" para mostrar archivos ocultos
+
+GIT es la herramienta con REPOSITORIOS LOCALES
+GitHub es la herramienta con REPOSITORIOS REMOTOS

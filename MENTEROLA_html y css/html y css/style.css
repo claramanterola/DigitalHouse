@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css?family=Work+Sans:300,400,700");
+@font-face {
+font-family: "Work Sans", Sans serif;
+}
+
+	span.icon { 
+	  font-family: FontAwesome; 
+	}
+
+	p {
+	  font-family: "Work Sans 400", Sans serif;
+	  font-size: 20px;
+	}
+
+	span {
+	font-size: 30px;
+	padding: 10px;
+
+	}
+
+	h1 {
+
+		font-size: 66px; 
+	}
