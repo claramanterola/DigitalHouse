@@ -1,0 +1,13 @@
+<?php
+$num1 = 45;
+$num2 = 1;
+
+if (
+	$num1 >= $num2
+	)
+echo "El numero $num1 es mayor";
+
+else
+	echo "El numero $num2 es mayor";
+
+?>
