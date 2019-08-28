@@ -26,3 +26,22 @@ index.php
   
   <!--Para hacer una img dinámica-->
   <img scr="<?php echo $imagen;?>"
+  
+  
+<!--TIPO DE DATOS-->
+string ""
+integer (int) Numeros enteros
+float Numeros decimales
+boolean True or False
+null > vacío
+
+
+<!--Para ARRAYs-->
+$productos = [
+ "Marca" => "iPhone",
+ "Modelo" => "X",
+ "Capacidad" => 64
+]
+$productos [index-marca]
+
+
