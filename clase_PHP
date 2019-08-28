@@ -1,0 +1,25 @@
+index.php
+ <html>
+  <head>
+  </head>
+  <body>
+    <title>
+
+
+    <?php>
+    echo "Hola";
+    ?>
+
+    </title>
+  </body>
+ </html>
+ 
+ 
+ VARIABLES EN PHP
+ 
+ <?php
+   $codigoCurso = "Full Stack Development";
+   $saludo = "Hola estoy en el curso $codigoCurso";
+   $saludo2 = $saludo " "chau";
+   
+  <p><?php echo $saludo; ?></p>
