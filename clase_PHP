@@ -23,3 +23,6 @@ index.php
    $saludo2 = $saludo " "chau";
    
   <p><?php echo $saludo; ?></p>
+  
+  <!--Para hacer una img dinámica-->
+  <img scr="<?php echo $imagen;?>"
