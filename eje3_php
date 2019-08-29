@@ -4,7 +4,6 @@ $max = 3;
 
 $intm = rand($min,$max);
 
-var_dump($intm);
 
 if (
 	$intm != 3
@@ -14,5 +13,5 @@ echo "El numero NO es 3";
 
 else 
 	echo "El numero es 3";
-  
+	
 ?>
